@@ -114,7 +114,6 @@ nav a {
     font-size: 12px;
     top: -35px;
     right: 0;
-    transform: translateX(50%);
 }
 
 .skill-per::after {
